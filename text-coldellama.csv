@@ -1,0 +1,2 @@
+,AWQ,GPTQ
+CodeLlama-34B,"['\n    if x % 2 == 0:\n        return ""even""\n    else:\n        return ""odd""\n\n\ndef test_even_or_odd']","['\n    if x % 2 == 0:\n        return ""even""\n    else:\n        return ""odd""\n\n\ndef test_even_or_odd']"
